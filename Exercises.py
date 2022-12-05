@@ -16,3 +16,11 @@
 # sep:   string inserted between values, default a space.
 # end:   string appended after the last value, default a newline.
 # flush: whether to forcibly flush the stream.
+
+
+# a = 36.5
+# b = '30'
+# c = '3.5'
+# d = ' F is enough for room temperature.'
+
+# print(str(a+int(b)+float(c))+d)
