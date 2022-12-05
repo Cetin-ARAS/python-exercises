@@ -47,3 +47,22 @@
 # print(city[-2:-5:-1])  -2 deb başlar -5 de biter ama almaz -1 atlayarak
 # print(city[::]) tamamını alır
 
+# a = "cet"
+# print(a*3) //cetcetcet
+
+# year = 4
+# language = 'Python'
+
+# print('I knew {} for {} years')
+
+# asd = "osman"
+# print(asd.split()) //['osman']
+
+# number = 123145
+# print(str(number).startswith('1')) // true
+# print(str(number).startswith('3', 2)) // true
+
+# print(1 and 0) //0
+
+# print(3 and not False or []) // True
+
