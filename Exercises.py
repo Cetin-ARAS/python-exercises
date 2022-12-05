@@ -24,3 +24,8 @@
 # d = ' F is enough for room temperature.'
 
 # print(str(a+int(b)+float(c))+d)
+
+# a = "cet"
+# b = "al"
+# # print(a,b) default boşluk olur
+# print(a, b, sep="/")   cet/al yazar
