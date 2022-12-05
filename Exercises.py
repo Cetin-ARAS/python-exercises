@@ -29,3 +29,21 @@
 # b = "al"
 # # print(a,b) default boşluk olur
 # print(a, b, sep="/")   cet/al yazar
+
+# num1 = 5
+# num2 = 5.18
+# print(type(num1)) //int
+# print(type(num2))  //float
+
+# print(int(False)) //0
+
+# x = "55"
+# y = 3
+# print(x * 3) //555555 başka operatörde TypeError verir
+
+# city = "corum"
+# print(city[2:5:2]) 
+# print(city[-5:-2]) 
+# print(city[-2:-5:-1])  -2 deb başlar -5 de biter ama almaz -1 atlayarak
+# print(city[::]) tamamını alır
+
