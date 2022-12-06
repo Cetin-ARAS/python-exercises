@@ -66,3 +66,9 @@
 
 # print(3 and not False or []) // True
 
+# set_1 = set("washington")
+# set_2 = set("wellington")
+# print(set_1.union(set_2))
+# print(set_1.difference(set_2))
+# print(set_1.intersection(set_2))
+
