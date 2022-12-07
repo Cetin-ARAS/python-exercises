@@ -85,5 +85,24 @@
 #     else:
 #         print('B-')     
            
+# age = input('Enter your age:')
 
+# while not age.isdigit():  # girilen rakamın 0-9 mu diye bakar
+#     print('Please enter correct data')
+#     age = input('Enter your age:')
+
+#     print(f'Your age is {age}')
+
+
+# my_number = 15
+# while True: # while is_true:
+#     your_number = int(input)('Enter your number: ')
+
+#     if your_number > my_number:
+#         print('Please reduce you number')
+#     elif your_number < my_number:
+#         print('Please increase your number') 
+#     else:
+#         print("You win")
+#         break
 
