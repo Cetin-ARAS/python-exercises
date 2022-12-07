@@ -72,3 +72,18 @@
 # print(set_1.difference(set_2))
 # print(set_1.intersection(set_2))
 
+# score = int(input('Enter your scroe:'))
+
+# if score >= 90:
+#     if score >= 95:
+#         print('A+')
+#     else:
+#         print('A')
+# else score >= 80:
+#     if score >= 85:
+#         print('B+')
+#     else:
+#         print('B-')     
+           
+
+
